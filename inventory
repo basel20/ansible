@@ -6,3 +6,6 @@ server2@192.168.1.25
 
 [file_servers]
 server3@192.168.1.23
+
+[workstations]
+basel@172.25.218.198
